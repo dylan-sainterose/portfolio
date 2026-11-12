@@ -2,7 +2,7 @@
 title: "Le site de la LAN SIO"
 date: 2026-11-12
 cadre: "Atelier de professionnalisation"
-resume: "Création et mise en ligne du site de la LAN SIO, en HTML, CSS et JavaScript, pour présenter l'événement."
+resume: "Création et mise en ligne du site de la LAN SIO, en HTML, CSS et JavaScript."
 competences: [c3]
 ---
 
@@ -10,24 +10,26 @@ competences: [c3]
 
 ## Contexte
 
-Dans le cadre d'un atelier de professionnalisation du BTS SIO, il fallait créer un site web pour présenter la LAN SIO et le publier sur Internet, afin que n'importe quel visiteur puisse y accéder.
+Dans le cadre d'un atelier de professionnalisation du BTS SIO, il fallait créer un site web pour présenter la LAN SIO, puis le publier sur Internet pour qu'il soit accessible à tous les visiteurs.
 
 ## Conditions et moyens
 
-Travail individuel sur mon poste, en HTML, CSS et JavaScript, avec un éditeur de code. Le site est versionné avec Git, puis hébergé sur un service gratuit de pages statiques.
+Travail seul, sur mon poste Windows. Le site est écrit en HTML, CSS et JavaScript, dans le dossier `C:\BTS-SIO\lan-sio`. Il est versionné avec Git, puis hébergé sur un service gratuit de pages statiques.
 
 ## Description de l'activité
 
-1. Création de la structure du site dans un dossier dédié, avec la page `index.html`, une feuille de style CSS et un fichier JavaScript.
-2. Rédaction du contenu des pages et mise en forme avec le CSS.
-3. Ajout du comportement dynamique avec JavaScript.
-4. Envoi du dossier vers un dépôt Git, puis publication du site sur son adresse publique.
-5. Vérification du site en ligne, depuis un navigateur et sur un écran étroit.
+1. Création du dossier du site et de la page `index.html`.
+2. Mise en forme du site avec une feuille de style CSS.
+3. Ajout du comportement dynamique en JavaScript.
+4. Envoi du dossier vers un dépôt Git, puis publication du site.
+5. Vérification du site en ligne, depuis son adresse publique.
 
 ## Productions et preuves
 
-Adresse du site : [file:///C:/BTS-SIO/lan-sio/index.html)
+Adresse du site : [https://adresse-publique-de-ton-site/](file:///C:/BTS-SIO/lan-sio/index.html)
+
+![Page d'accueil du site de la LAN SIO]({{ "/images/site-lan-sio.png" | relative_url }})
 
 ## Ce que j'en retiens
 
-La principale difficulté était de passer d'un site qui fonctionne sur mon ordinateur à un site accessible à tous. Un fichier ouvert depuis mon disque n'a pas d'adresse publique : il a fallu le publier et tester l'adresse obtenue.
+La difficulté était de passer d'un site qui ne marche que sur mon ordinateur à un site accessible à tous. Un fichier ouvert depuis mon disque n'a pas d'adresse publique : il a fallu le publier, puis tester l'adresse obtenue.
