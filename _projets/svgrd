@@ -1,1 +1,33 @@
+---
+title: "Le site de la LAN SIO"
+date: 2026-11-12
+cadre: "Atelier de professionnalisation"
+resume: "Création et mise en ligne du site de la LAN SIO, en HTML, CSS et JavaScript, pour présenter l'événement."
+competences: [c3]
+---
 
+[Ouvrir le site de la LAN SIO](file:///C:/BTS-SIO/lan-sio/index.html)
+
+## Contexte
+
+Dans le cadre d'un atelier de professionnalisation du BTS SIO, il fallait créer un site web pour présenter la LAN SIO et le publier sur Internet, afin que n'importe quel visiteur puisse y accéder.
+
+## Conditions et moyens
+
+Travail individuel sur mon poste, en HTML, CSS et JavaScript, avec un éditeur de code. Le site est versionné avec Git, puis hébergé sur un service gratuit de pages statiques.
+
+## Description de l'activité
+
+1. Création de la structure du site dans un dossier dédié, avec la page `index.html`, une feuille de style CSS et un fichier JavaScript.
+2. Rédaction du contenu des pages et mise en forme avec le CSS.
+3. Ajout du comportement dynamique avec JavaScript.
+4. Envoi du dossier vers un dépôt Git, puis publication du site sur son adresse publique.
+5. Vérification du site en ligne, depuis un navigateur et sur un écran étroit.
+
+## Productions et preuves
+
+Adresse du site : [https://adresse-publique-de-ton-site/](https://adresse-publique-de-ton-site/)
+
+## Ce que j'en retiens
+
+La principale difficulté était de passer d'un site qui fonctionne sur mon ordinateur à un site accessible à tous. Un fichier ouvert depuis mon disque n'a pas d'adresse publique : il a fallu le publier et tester l'adresse obtenue.
