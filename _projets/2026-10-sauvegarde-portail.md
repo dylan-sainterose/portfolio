@@ -2,7 +2,7 @@
 title: "Sauvegarde de mon portail"
 date: 2026-10-27
 cadre: "Atelier de professionnalisation"
-resume: "Une phrase : ce que vous avez fait, et pour qui."
+resume: "Présentation de mon portfolio."
 competences: [c2, c5, c4]
 ---
 
